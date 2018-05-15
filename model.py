@@ -149,6 +149,8 @@ for iteration in range(150):
             print(colors.fail + '☒' + colors.close, end=' ')
         print(guess)
 
+#model.save('model.h5')
+
 print("MSG : Prediction...(only last 10% is shown)")
 x = test_x
 y = test_y
