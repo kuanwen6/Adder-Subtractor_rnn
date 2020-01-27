@@ -17,6 +17,7 @@ An implementation of sequence to sequence learning for performing 3 digits addit
 | accuracy | loss |
 | ---- | ---- |
 | ![](img/digit2_acc.png) | ![](img/digit2_loss.png) |
+
 | Test data預測準確率 | Test data預測所需時間 |
 | ---- | ---- |
 | ![](img/digit2_msg.png) | ![](img/digit2_time.png) | 
@@ -24,6 +25,7 @@ An implementation of sequence to sequence learning for performing 3 digits addit
 | accuracy | loss |
 | ---- | ---- |
 | ![](img/digit3_acc.png) | ![](img/digit3_loss.png) |
+
 | Test data預測準確率 | Test data預測所需時間 |
 | ---- | ---- |
 | ![](img/digit3_msg.png) | ![](img/digit3_time.png) |
