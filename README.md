@@ -1,4 +1,5 @@
 # Adder and Subtractor_rnn
+An implementation of sequence to sequence learning for performing 3 digits addition and subtraction
 ## Excution
 `python model.py`
 ## Coding Parts
@@ -12,19 +13,19 @@
 在二位數以及三位數的加減法器中皆選擇了三種不同的training size，再分別以不同的epochs去training。所有iterate皆為100次
 
 #### Digit 2
-accuracy | loss
-- | -
-![](img/digit2_acc.png) | ![](img/digit2_loss.png)
-Test data預測準確率 | Test data預測所需時間
-- | - 
-![](img/digit2_msg.png) | ![](img/digit2_time.png)
+| accuracy | loss |
+| ---- | ---- |
+| ![](img/digit2_acc.png) | ![](img/digit2_loss.png) |
+| Test data預測準確率 | Test data預測所需時間 |
+| - | - |
+| ![](img/digit2_msg.png) | ![](img/digit2_time.png) | 
 #### Digit 3
-accuracy | loss
-- | - 
-![](img/digit3_acc.png) | ![](img/digit3_loss.png)
-Test data預測準確率 | Test data預測所需時間
-- | -
-![](img/digit3_msg.png) | ![](img/digit3_time.png)
+| accuracy | loss |
+| ---- | ---- |
+| ![](img/digit3_acc.png) | ![](img/digit3_loss.png) |
+| Test data預測準確率 | Test data預測所需時間 |
+| - | - |
+| ![](img/digit3_msg.png) | ![](img/digit3_time.png) |
 
 
 ## Report Part
